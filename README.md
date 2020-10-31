@@ -1,3 +1,4 @@
+<img src="pictures/banner.png">
 # bikesharing
 The written analysis has the following structure, organization, and formatting:
 
