@@ -16,7 +16,7 @@ How many bike trips are started for each type of user and gender for each day of
 
 To provide investors with actionable answers to their questions, I am providing the following visualizations and expinations below of the reuslts they represent.
 
-
+<img src="pictures/Screen1.png">
 
 
 
