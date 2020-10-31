@@ -55,14 +55,9 @@ In summary, there was a total of 2,344,224 bike rides in August. From the data r
 
 ### Thinking About the Future
 What additional information is needed for Des Moines' investors to make an informed decision? Here are two suggestions I have for future bikesharing in Des Moines: 
-1.) Can Des Moines current street infrestructure handle the addional traffic of bikesharing? That is, are the streets wide enough for bikes and other vehicles to co-exist? 
 
+1.) Can Des Moines' current street infrastructure handle the addional traffic of bikesharing? That is, are the streets wide enough for bikes and other vehicles to co-exist? Are streets level and in good repair?  I would suggest a visualization of NYC streets (and obviously Des Moines street infrastructure as well) to understand how street location and capacity determine the routes bike riders take for a safe and efficient ride; assuming those two are relateable in NYC while riding a bike. Which also brings up another issue, are there areas designated "off limits" for bike riders in NYC? Are there areas that have been developed especially for bike riders to commute?  
 
-2.) Are there adequate staging areas already available for large numbers of bikes in high demand locations?
+2.) Are there adequate staging areas already available for large numbers of bikes in high demand locations? Will existing land need to be purchased and transformed into bikeshare stations? Is it affordable to purchase and build said stations? I suggest exploring similar companys and industry doing business along high occupancy bike traffic routes to see if there are any comparisons that would help Des Moines look deeper into high demand traffic routes and predicting bike routes based on types of companies and popular destinations. An additional visualization would include popular bike routes that handle the greatest number of riders every day in NYC. Include several points along the route with the most starting/ending stations filtered by gender.
 
-<img src="pictures/Screen7.png">
-
-
-
-
-
+this concludes my analysis PEM
