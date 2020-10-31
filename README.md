@@ -18,13 +18,32 @@ To provide investors with actionable answers to their questions, I am providing 
 
 <img src="pictures/Screen1.png">
 
+The first screen provides the total number of riders for the month of August. It is important to note there are two types of riders represented in this screen: Customers and Subscribers. Customers are those who make a reservation for a one time ride or walk-up to a bike station and rent a bike. Subscribers are those who pay a monthly or yearly subscription fee to use bikeshare services whenever they desire. The data confirms there is an overwhelming number of Subscibers participating in the August analysis. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
+
 
 
 <img src="pictures/Screen2.png">
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+This screen provides information about the duration of bike rides. This visualization tells investors the majority of rides are between 4.5 and 6.5 hours in duration. This is important becasue of at least two factors: one, longer rides during peak hours mean fewer bikes are available. Secondly, Customers taking 4.5 to 6.5 hour bike rides represent higher prifit margins but also more wear on the bikes.
+
+
 <img src="pictures/Screen3.png">
+
 
 
 
