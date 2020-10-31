@@ -39,23 +39,22 @@ The screen above is another view of riders comprising the user base, the peak ho
 
 <img src="pictures/Screen5.png">
 
-
+The screen above visualizes which day of thwee is most popular for bike rides. the screen provides the number of bike riders and the week day rides take place. This screen provide important information about demand. From previous screens it is clear that regardless of gender everyone wants their bike at the same time of the day and now it is clear which day presents the highest demand from all riders, Thursday. this is important when planning for distribution of bikes and managing peak hours of operation.
 
 <img src="pictures/Screen6.png">
 
-
+The screen above presents another vew of the high and low demand times during each day and the week days with highest and lowest denamd for bikes. This is important for investors to know when considering how many bikes to have avilable and where to have the most bikes available to meet rider's demands.
 
 <img src="pictures/Screen9.png">
 
+The screen above visualizes the most popular stations for starting and ending a bike ride in NYC. During the month of August the start and stop points are the same, Grand Central Terminal. This screen is important for investors when trying to understand useage patterns and traffic patterns of riders. Investors want to know where their clients are going, why they are going there and how long it takes to complete a ride. 
 
 
+## Summary
+In summary
 <img src="pictures/Screen7.png">
 
 
 
 
-the There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
