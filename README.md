@@ -51,7 +51,15 @@ The screen above visualizes the most popular stations for starting and ending a 
 
 
 ## Summary
-In summary
+In summary, there was a total of 2,344,224 bike rides in August. From the data results we know that 1,900,359 users are Subscribers and there were 443,865 Customers riding. There is a peak number of riders who rent a bike for 5 to 6 hours, the largest number being male. Thursdays hold a slight preference over Fridays for highest demand of bikes. There are two peak periods every week day that align with traditional business hours beginning and ending (around 8a.m. and 5p.m.) and at the same location, Grand Central Terminal. There seems to be no correlation to gender demands for bikes during peak hours: everyone wants a bike to ride at the same time. 
+
+### Thinking About the Future
+What additional information is needed for Des Moines' investors to make an informed decision? Here are two suggestions I have for future bikesharing in Des Moines: 
+1.) Can Des Moines current street infrestructure handle the addional traffic of bikesharing? That is, are the streets wide enough for bikes and other vehicles to co-exist? 
+
+
+2.) Are there adequate staging areas already available for large numbers of bikes in high demand locations?
+
 <img src="pictures/Screen7.png">
 
 
