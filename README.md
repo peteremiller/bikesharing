@@ -40,11 +40,11 @@ To provide investors with actionable answers to their questions, I am providing 
 
 
 
-<img src="pictures/Screen7.png">
-
-
-
 <img src="pictures/Screen9.png">
+
+
+
+<img src="pictures/Screen7.png">
 
 
 
