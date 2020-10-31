@@ -20,6 +20,34 @@ To provide investors with actionable answers to their questions, I am providing 
 
 
 
+<img src="pictures/Screen2.png">
+
+
+
+<img src="pictures/Screen3.png">
+
+
+
+<img src="pictures/Screen4.png">
+
+
+
+<img src="pictures/Screen5.png">
+
+
+
+<img src="pictures/Screen6.png">
+
+
+
+<img src="pictures/Screen7.png">
+
+
+
+<img src="pictures/Screen9.png">
+
+
+
 
 the There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
