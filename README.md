@@ -1,4 +1,4 @@
-<img src="pictures/citi-bike-station-bikes.jpg">
+<img src="pictures/citibike.png">
 
 # Analysis of NYC Citi Bike Data: Will Investors Make Bikesharing in Des Moines a Reality? 
 ## Overview of the Analysis ##
