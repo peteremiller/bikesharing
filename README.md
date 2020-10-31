@@ -14,32 +14,32 @@ How many bike trips are started for each type of user and gender for each day of
 
 ### Results
 
-To provide investors with actionable answers to their questions, I am providing the following visualizations and expinations below of the reuslts they represent.
+To provide investors with actionable answers, I am providing the following visualizations and comments about the results they represent. To see the data screens in story form follow the link to my Tableau Public dashboard [link to dashboard](https://public.tableau.com/profile/peter.miller2058)
 
 <img src="pictures/Screen1.png">
 
-The screen above provides the total number of riders for the month of August. It is important to note there are two types of riders represented in this screen: Customers and Subscribers. Customers are those who make a reservation for a one time ride or walk-up to a bike station and rent a bike. Subscribers are those who pay a monthly or yearly subscription fee to use bikeshare services whenever they desire. The data confirms there is an overwhelming number of Subscibers participating in the August analysis. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
+The screen above provides the total number of riders for the month of August in NYC. It is important to note there are two types of riders represented in this screen: Customers and Subscribers. Customers are those who make a reservation for a one time ride or walk-up to a bike station and rent a bike. Subscribers are those who pay a monthly or yearly subscription fee to use bikeshare services whenever they desire. The data confirms there is an overwhelming number of Subscibers participating in the August analysis. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
 
 
 
 <img src="pictures/Screen2.png">
 
 
-The screen above provides information about the duration of bike rides. This visualization tells investors the majority of rides are between 4.5 and 6.5 hours in duration. This is important becasue of at least two factors: one, longer rides during peak hours mean fewer bikes are available. Secondly, Customers taking 4.5 to 6.5 hour bike rides represent higher prifit margins but also more wear on the bikes.
+The screen above provides information about the duration of bike rides. This visualization tells investors the majority of rides are between 4.5 and 6.5 hours in duration. This is important becasue of at least two factors: one, longer rides during peak hours mean fewer bikes may be available at popular stations. Secondly, Customers taking 4.5 to 6.5 hour bike rides represent higher prifit margins but also more wear on the bikes.
 
 
 <img src="pictures/Screen3.png">
 
-The screen above provides two dataset graphs visualizing weekday rides by type of rider, Subscriber and Customer, and reported gender of the rider. The second grapf visualizes the weekday rides by gender for every hour. This screen is important, in my opinion, because it identifies the predominat gender driving demand for bikes. There are two high demand time periods every day: between 6:30 and 8a.m. and 5:00 and 7:00p.m. The highest demand day of the week for bike rides is Thursday, closely followed by Friday. Knowing when high demand periods occur will also help determine when repairs and re-allocation are most efficiently handled.
+The screen above provides two dataset graphs visualizing weekday rides by type of rider, Subscriber and Customer, and reported gender of the rider. The second graph visualizes the weekday rides by gender for every hour. This screen is important, in my opinion, because it identifies the predominat gender driving demand for bikes. There are two high demand time periods every day: between 6:30 and 8a.m. and 5:00 and 7:00p.m. The highest demand day of the week for bike rides is Thursday, closely followed by Friday. Knowing when high demand periods occur will also help determine when repairs and re-allocation are most efficiently handled.
 
 
 <img src="pictures/Screen4.png">
 
-The screen above is another view of riders comprising the user base, the peak hours of rides, and the number of bikes in use every hour by riders and genders reported. This visualization gives a big picture view of how all of the mentioned factors are working togehter to create the story of daily useage. It is important to the results of the analysis because investors want to konw how many rides are taking place each hour and who is riding.  
+The screen above is another view of riders in the user base, the peak hours of rides, and the number of bikes in use every hour by rider type and gender. This visualization gives a big picture view of how all of the mentioned factors are working together to create the story of daily useage. It is important to the analysis because investors want to konw how many rides are taking place each hour and who is riding.  
 
 <img src="pictures/Screen5.png">
 
-The screen above visualizes which day of thwee is most popular for bike rides. the screen provides the number of bike riders and the week day rides take place. This screen provide important information about demand. From previous screens it is clear that regardless of gender everyone wants their bike at the same time of the day and now it is clear which day presents the highest demand from all riders, Thursday. this is important when planning for distribution of bikes and managing peak hours of operation.
+The screen above visualizes which day of the week is most popular for bike rides. The screen provides the number of bike riders and the week day rides take place. This screen provides important information about demand for bikes. From previous screens it is clear that regardless of gender everyone wants their bike at the same time of the day and now it is clear which day presents the highest demand from all riders, Thursday. This is important when planning for distribution of bikes and managing peak hours of operation.
 
 <img src="pictures/Screen6.png">
 
@@ -47,7 +47,7 @@ The screen above presents another vew of the high and low demand times during ea
 
 <img src="pictures/Screen9.png">
 
-The screen above visualizes the most popular stations for starting and ending a bike ride in NYC. During the month of August the start and stop points are the same, Grand Central Terminal. This screen is important for investors when trying to understand useage patterns and traffic patterns of riders. Investors want to know where their clients are going, why they are going there and how long it takes to complete a ride. 
+The screen above visualizes the most popular stations for starting and ending a bike ride in NYC. During the month of August the start and stop points are the same, Grand Central Terminal. This screen is important for investors when trying to understand useage patterns and traffic patterns of riders. Investors want to know where their clients are going, what is at the location and how long it takes to complete a ride. 
 
 
 ## Summary
