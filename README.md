@@ -30,12 +30,12 @@ The screen above provides information about the duration of bike rides. This vis
 
 <img src="pictures/Screen3.png">
 
-The screen above provides two dataset graphs visualizing weekday rides by type of rider, Subscriber and Customer, and reported gender. The seond grapf visualizes the weekday rides by gender for every hour. this screen is important, in my opinion, because it identifies the predominat gender driving denand for bikes. There are two high demand time periods every day: between 6:30 and 8a.m. and 5:00 and 7:00p.m. The highest demand day of the week for bike rides is Thudsday, closely followed by Friday. Knowing when high demand periods are will also help determine when repairs and allocation are most efficiently handled.
+The screen above provides two dataset graphs visualizing weekday rides by type of rider, Subscriber and Customer, and reported gender of the rider. The second grapf visualizes the weekday rides by gender for every hour. This screen is important, in my opinion, because it identifies the predominat gender driving demand for bikes. There are two high demand time periods every day: between 6:30 and 8a.m. and 5:00 and 7:00p.m. The highest demand day of the week for bike rides is Thursday, closely followed by Friday. Knowing when high demand periods occur will also help determine when repairs and re-allocation are most efficiently handled.
 
 
 <img src="pictures/Screen4.png">
 
-
+The screen above is another view of riders comprising the user base, the peak hours of rides, and the number of bikes in use every hour by riders and genders reported. This visualization gives a big picture view of how all of the mentioned factors are working togehter to create the story of daily useage. It is important to the results of the analysis because investors want to konw how many rides are taking place each hour and who is riding.  
 
 <img src="pictures/Screen5.png">
 
