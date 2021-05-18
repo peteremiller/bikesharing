@@ -4,11 +4,11 @@
 ## Overview of the Analysis ##
 ### Purpose 
 
-The purpose of this analysis is to provide an interested group of investors in Des Moines with data visualizations they have requested. The analysis must answer investor questions about bikesharing in NYC and provide insights for a potential bikesharing investment in Des Moines. Investors want to understand several key points about their potential investment and I will use Tableau to tell the story of the data. The source of data for the analysis will come from NYC Citi Bike data provided for public use located on the Citi Bike Website. To complete an appropriate analysis one of the data columns must be converted from a number value to an expression of time. That is, I will use a text editor, Jupyter Notebook, and Pandas for creating Python code to convert a number (integer datatype) into a useable expression of hours, mintes and seconds (datetime datatype). The purpose of changing the datatype reveals the duration of every bike ride and consistently expresses a useable datatype throughout the data. I'll be using the month of August for this analysis because of the large volume of rides. 
+The purpose of this analysis is to provide an interested group of investors in Des Moines with data visualizations they have requested. The analysis must answer investor questions about bikesharing in NYC and provide insights for a potential bikesharing investment in Des Moines. Investors want to understand several key points about their potential investment and I will use Tableau to tell the story of the data. The source of data for the analysis will come from NYC Citi Bike data provided for public use located on the Citi Bike Website. To complete an appropriate analysis one data column must be converted from a number value to an expression of time. That is, I will use a text editor, Jupyter Notebook, and Pandas for creating Python code to convert a number (integer datatype) into a useable expression of hours, mintes and seconds (datetime datatype). The purpose of changing the datatype reveals the duration of every bike ride and consistently expresses a useable datatype throughout the data. I'll be using the month of August for this analysis because of the large volume of rides. 
 
 Using the converted datatype, I’ll create a set of visualizations to answer the following investor questions:
 
-What is the length of time that bikes are checked out for all riders and genders?
+What is the length of time bikes are checked out for all riders and genders?
 How many bike trips, for all riders and genders, are started every hour, every day of the week?
 How many bike trips are started for each type of user and gender for each day of the week?
 
@@ -50,7 +50,7 @@ The screen above visualizes the most popular stations for starting and ending a 
 
 
 ## Summary
-In summary, there was a total of 2,344,224 bike rides in August. From the data results we know that 1,900,359 users are Subscribers and there were 443,865 Customers riding. There is a peak number of riders who rent a bike for 5 to 6 hours, the largest number being male. Thursdays hold a slight preference over Fridays for highest demand of bikes. There are two peak periods every week day that align with traditional business hours beginning and ending (around 8a.m. and 5p.m.) and at the same location, Grand Central Terminal. There seems to be no correlation to gender demands for bikes during peak hours: everyone wants a bike to ride at the same time. 
+In summary, there were a total of 2,344,224 bike rides in August. From the data results we know that 1,900,359 users are Subscribers and there were 443,865 Customers riding. A peak number of riders rented a bike for 5 to 6 hours, the largest number being male. Thursdays hold a slight preference over Fridays for highest demand of bikes. There are two peak periods every weekday that align with traditional business hours beginning and ending (around 8a.m. and 5p.m.) and at the same location, Grand Central Terminal. There seems to be no correlation to gender demands for bikes during peak hours: everyone wants a bike to ride at the same time. 
 
 ### Thinking About the Future
 What additional information is needed for Des Moines' investors to make an informed decision? Here are two suggestions I have for future bikesharing in Des Moines: 
